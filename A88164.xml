@@ -1,0 +1,197 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The copy of a letter, from Lieutenant Colonell John Lilburne, to a freind</title>
+            <author>Lilburne, John, 1614?-1657.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88164</idno>
+            <idno type="STC">Wing L2090</idno>
+            <idno type="STC">Thomason E296_5</idno>
+            <idno type="STC">ESTC R202802</idno>
+            <idno type="EEBO-CITATION">99862975</idno>
+            <idno type="PROQUEST">99862975</idno>
+            <idno type="VID">115155</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88164)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 115155)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 49:E296[5])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The copy of a letter, from Lieutenant Colonell John Lilburne, to a freind</title>
+                  <author>Lilburne, John, 1614?-1657.</author>
+                  <author>Marten, Henry, 1602-1680.</author>
+                  <author>Cromwell, Oliver, 1599-1658.</author>
+               </titleStmt>
+               <extent>61 [i.e. 16], [4] p.   </extent>
+               <publicationStmt>
+                  <publisher>Larner's press at Goodman's Fields,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1645]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Dated at end: July, 25. 1645.</note>
+                  <note>Identification of printer from Wing.</note>
+                  <note>With a letter from Oliver Cromwell dated 10 July 1645.</note>
+                  <note>P. 16 misnumbered 61.</note>
+                  <note>Quire A is in the same setting, but a different imposition, as the edition with pagination: 20 p.</note>
+                  <note>Annotation on Thomason copy: "Aug: 9th. 1645".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Lilburne, John, 1614?-1657.</term>
+               <term>Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="illustration">
+            <pb n="737" facs="tcp:115155:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 27 -->
+            <p>
+               <figure>
+                  <head>holy inocency iſ. bleſſed</head>
+                  <l>The Author of the <hi>Dove</hi> incloſed ſends</l>
+                  <l>Intelligence, and counſell to his Friends;</l>
+                  <l>From Weſt and North, and from North-weſt ſhe brings</l>
+                  <l>What ſhe hath gather'd; ſhe reports of things</l>
+                  <l>In Action ſhe might not ſtay the event;</l>
+                  <l>But make returne to him from whom ſhe went.</l>
+               </figure>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <head>
+               <hi>Be wiſe as Serpents, innocent as Doves.</hi> THE SCOTISH DOVE Sent out, and Returning; Brings Intelligence from the Armies of both Kingdomes, and relates other Paſſages obſervable, for Information and Inſtruction.</head>
+            <head type="sub">From Friday the of <hi>1 Auguſt,</hi> till Friday the <hi>8</hi> of <hi>Auguſt, 1645.</hi>
+            </head>
+            <p>THurſday laſt, after my <hi>Dove</hi> was fully plum'd, her Intelligence given her, and her Packet ſealed, there came ſome Intelli<g ref="char:EOLhyphen"/>gence of good Newes, which then I had no roome to inſert, (as you may remember) one was of the taking of <hi>Bash,</hi> of which I
+<pb n="738" facs="tcp:115155:2"/>
+               <!-- PDF PAGE 28 -->then gave you a briefe relation; another was of the taking of the Kings Life-guard, or the moſt part thereof; they were paſſing over the River from <hi>Wales</hi> to <hi>Min-head,</hi> and ſo to <hi>Briſtol,</hi> and in their paſſage were taken by a Frigot; The King (as is reported) was in<g ref="char:EOLhyphen"/>tended to follow, and in ſome danger, (or rather ſo neere to ſuch a happineſſe) to be taken about the ſame time: a third thing which I would have related laſt weeke, is the brave ſervice done by Cap<g ref="char:EOLhyphen"/>taine <hi>Shilburne</hi> of <hi>Alisbury,</hi> which I ſhall new briefly relate, be<g ref="char:EOLhyphen"/>cauſe I find the Relation thereof made by ſome to differ much from the truth of the action; in briefe, and for truth, it was thus: The Kings Garriſons at <hi>Oxford, Walling ford,</hi> and <hi>Boſtocke,</hi> being denyed the money they had Levyed upon the Countrie, toward <hi>Alisbury,</hi> threatned to come and Plunder the Townes, and burne their houſes, &amp;c. The Committee therefore ſent out Captaine <hi>Shilburne,</hi> with a<g ref="char:EOLhyphen"/>bout 120 Horſe &amp; Dragoons to ſecure the Countrie; he went out on the Saturday, and ſtayed till Tueſday; in all which time he ſaw no Enemie: But on Tueſday about noone, he (being at <hi>Wadſdon,</hi> and his Horſes unbitted) received Intelligence that the Enemie was comming againſt him with a ſtrong partie from <hi>Thame;</hi> Cap<g ref="char:EOLhyphen"/>taine <hi>Shilburne,</hi> with all ſpeed prepared, and encouraged his men: but before he could get readie, the Enemie got betweene him and <hi>Ethrop</hi>-houſe (which was their Garriſon) and in ſtriving to get a little lane, which is about the mid way betweene <hi>Ethrop</hi> and <hi>Wadſ<g ref="char:EOLhyphen"/>don,</hi> their forlorne parties fell to blowes, and preſently their whole bodies; the Enemie being 240, we not above 120. But gallant <hi>Shil<g ref="char:EOLhyphen"/>burne</hi> behaved himſelfe ſo bravely, that he gave great incourage<g ref="char:EOLhyphen"/>ment to his Souldiers, and as much diſ-heartned the Enemie; he charged the Enemie twice through, ſlew divers of them, ſome were men of quailitie, he wholly routed them, and tooke divers priſo<g ref="char:EOLhyphen"/>ners, he loſt not above 8 men: the Enemie fled towards <hi>Oxford,</hi> and as they paſſed through <hi>Winchington,</hi> divers of them that were wounded ſtayed; ſome dyed there, ſome a little farther: and by the judgement of the Countrie that ſee them, there was not leſſe then 100 of the Enemie wounded: Captaine <hi>Shilburne</hi> received two flight hurts in the fight. Had ſome men (more forward to uſe the Pen then the Sword) done ſuch a ſervice (which they ſeldome doe) all the Pamphlets would have rung of their Letters, in prayſe of the action: We know that emptie veſſels make the greateſt noyſe. This
+<pb n="739" facs="tcp:115155:2"/>
+               <!-- PDF PAGE 28 -->brave Gentleman hath done ſeverall gallant ſervices, and tels no bo<g ref="char:EOLhyphen"/>die, nor will he let one of our Pamphlets be beholding to him for one letter; others will be beholding to the Pamphleter to blaze their Letters and their tainter-ſtrecht Relations, which are fuller of words then of truthes; It is the beſt prayſe of Vertue or Valcur, when the actions flowing there-from, ſpeakes it more then their owne Pen.</p>
+            <p>The Commiſſioners ſent from the Parliament of <hi>England,</hi> to the Parliament of <hi>Scotland,</hi> ſet forward on their journey on Fryday laſt.</p>
+            <p>Colonel <hi>Harlow</hi> is made Governour of <hi>Cannon-Froome,</hi> the Gar<g ref="char:EOLhyphen"/>riſon lately taken by the Lord Generall <hi>Leven:</hi> From which Army was certified lately, that they were marcht over the Foreſt of <hi>Dean,</hi> and (as was conceived) they intended toward <hi>Monmouth:</hi> and thereupon it was generally reported, that the Lord Generall <hi>Leven</hi> had ſummoned the Towne: but it was not ſo, for he ſtruck off from the Foreſt to <hi>Hereford,</hi> and ſent ſummons to it, but was refuſed by the Towne: He is now before the Towne, hath layd cloſe ſiege to it; ſent for his great battering Peeces, and rayſed workes and ram<g ref="char:EOLhyphen"/>piers for batterie: what the iſſue will be, I cannot tell you; that we leave to God, who I hope will give that Towne and the reſt ſhort<g ref="char:EOLhyphen"/>ly into the Parliaments hands.</p>
+            <p>And thus much give me leave to ſay, for ſatisfaction to ſome, that although no great actions have beene done by that Army ſince they came into theſe Southerne or South-weſt parts, yet they have done great ſervice (though eaſie) in hindring the Kings deſignes &amp; his re<g ref="char:EOLhyphen"/>cruits; and when God ſhall be pleaſed to put them upon greater action, I doubt not of their good and well performance of it; if men would have patience to ſtay Gods time, and not look upon men as if they were Gods, able to doe what they will; nor eſteeme of them worſe then men: which are two extrenies betweene which mens fancies are too much divided, and too often fall upon preju<g ref="char:EOLhyphen"/>dice by the one or by the other; it were well if men would avoyd both theſe evills, and looke upon men as men, without ſingularitie, or prejudice, but onely as inſtruments, by which God worketh to accompliſh his owne will.</p>
+            <p>The Parliament have intreated Generall <hi>Leven</hi> to take care to keepe the King on that ſide of <hi>Severne</hi> where he is, and to hinder his
+<pb n="740" facs="tcp:115155:3"/>
+               <!-- PDF PAGE 29 -->recruits as much as may be, and to keepe any partie from <hi>Cheſhire</hi> and thoſe parts; which no doubt he will doe, and ſomething elſe, of which I hope you will heare ſhortly. There are ſome Letters from <hi>Scotland</hi> this week, but they import no action or other newes that concernes our Intelligence.</p>
+            <p>There is care taken by the Parliament for the keeping in of the Enemie at <hi>Oxford, Boſtock, Banbury, Walling ford, Dunington,</hi> and <hi>Baſing,</hi> which will with all poſſible ſpeed be effected, to the eaſe of all the Counties adjacent, and the better if all would freely joyne in the worke for their owne good. The Reformadoes that laſt went to the reliefe of <hi>Taunton</hi> are all to be imployed in that ſervice. Care is alſo taken for the affaires in <hi>Cheſhire,</hi> &amp;c. and for <hi>Newarke,</hi> though for the preſent they are injurious to the Countie of <hi>Lincolne.</hi> They have taken a Garriſon called <hi>Torſey</hi>-houſe, about 4 or 5 miles from <hi>Gainsborough,</hi> they have burnt the houſe, &amp; drawn up ſome Sluces, ve<g ref="char:EOLhyphen"/>rie prejudiciall to the Countie. A care is taken to ſecure that Coun<g ref="char:EOLhyphen"/>tie, and not onely ſo, but to bring that helliſh ſanctuarie of diaboli<g ref="char:EOLhyphen"/>call robbers into a better obedience; which if God be pleaſed to bleſſe the deſigne, will be of happie concernment to all thoſe Counties, and to the Kingdome; I pray God proſper the worke.</p>
+            <p>Severall debates have beene in the houſe, about the eſtabliſhment of the government of the Church in a Presbyterie way, and ſetling all things therein according to the true meaning and ſenſe of Sacred Scripture: As alſo to diſtinguiſh (as farre as is poſſible) betweene them that are Chriſtians indeed, and thoſe that are onely Chriſtians by name, &amp;c. that ſuch as are not fit to be partaker of holy things, (either by reaſon of their continued prophane lives, or by reaſon of their darke ignorance) to receive the bleſſed Sacrament of the Lords Supper, may be for a time ſeparated from thoſe that are fit &amp; worthie receivers of thoſe holy miſte<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ies, till they be better inſtru<g ref="char:EOLhyphen"/>cted and admoniſhed: yet ſo, as there ſhall not be any violence to force any mans conſcience (as ſome have dreamed and given out in words to retard the worke, and to rayſe jealouſies) no otherwiſe then by holy and Chriſtian exhortation, according to the rule of holy Scripture, that ſo we that profeſſe Chriſtianitie, may be Chri<g ref="char:EOLhyphen"/>ſtians indeed, and all of one mind, and one heart, as the Father and the Son are one; for Chriſt hath but <hi>one ſheep-fold and one Shep<g ref="char:EOLhyphen"/>heard;</hi> and he that entreth not in by the doore into the ſheep-fold,
+<pb n="741" facs="tcp:115155:3"/>
+               <!-- PDF PAGE 29 -->but by ſome other way, <hi>he is a thiefe and a robber.</hi> It is true, that <hi>all authorities and powers are made ſubject to Chriſt,</hi> both in heaven and on earth; yet all Chriſtians and men are by Chriſt made ſubject to all lawfull authorities on earth, for <hi>the powers that be are ordained of God,</hi> and we are all bound to ſubmit thereunto, <hi>even for conſcience ſake,</hi> for ſo the Apoſtle teacheth: that is, in all things commanded by God, and in all things not forbidden by God; elſe were the ſword put into the hand of the Magiſtrate in vaine, which it is not: for Scripture tells us, <hi>He beareth not the ſword in vaine.</hi> Therefore, he that diſobeyeth in either of theſe, reſiſts the ordinance of God; as he that obeyeth more then this, tranſgreſſeth againſt the command of God; both which make him lyable to wrath, and brings him in danger of damnation: I pray God we may all ſeriouſly conſider it, and learne to be godly wiſe, that we may denie our ſelves, forſake our owne wiſedomes, and our owne righteouſneſſe, that God in Chriſt may be all in all unto us: If we thus doe, and ſeeke Peace one with another, God will ſurely give Peace to the Kingdome; elſe we cannot expect it from God as a bleſſing.</p>
+            <p>The Garriſon of <hi>Banbury</hi> hath of late done verie much hurt to all the adjacent Counties, and doe dayly make incurſions into all Roads; &amp; have robbed manie Carriers that paſſe, <hi>Coventry</hi> Road eſpe<g ref="char:EOLhyphen"/>cially; they are as perfect at that Trade, as if there were with them ſome of the Journy-men of the Lord of <hi>Loughboroughs</hi> which is the arch rob-Carrier of <hi>England;</hi> they beſtir themſelves devilliſhly, as if they were in their laſt yeare of libertie, now let looſe to trouble the Inhabitants of the Earth.</p>
+            <p>
+               <hi>Sandall</hi> Caſtle, and <hi>Skipton</hi> in <hi>Yorkeſhire,</hi> are both beſieged, the Enemie are yet wilfull, and muſt be whipt into a better humour, which it is likely (by Gods bleſſing) will ſhortly be done: There is great hopes of <hi>Latham</hi>-houſe, but no certaintie.</p>
+            <p>Major Generall <hi>Skippon</hi> is recovered very well in his health, and in great meaſure healed of his wounds, which is a mercie to the Kingdome; for he hath, as is ſtill likely, to be a good inſtrument of good to the publique.</p>
+            <p>Lieutenant Generall <hi>Cromwell</hi> hath beene ſick of a Feaver in <hi>Bridgewater,</hi> but is in part recovered; God be prayſed for the lives of ſuch Worthies.</p>
+            <p>Major Generall <hi>Browne</hi> is now in <hi>London,</hi> he hath made knowne
+<pb n="742" facs="tcp:115155:4"/>
+               <!-- PDF PAGE 30 -->to the Houſe the eſtate of thoſe Counties within his Commiſſion, and is haſtening the ayd that ſhall be for their ſupport.</p>
+            <p>Major <hi>Temple</hi> is made Governour of the Garriſon of <hi>Newport. Pagnell.</hi>
+            </p>
+            <p>Some Letters from <hi>Ireland,</hi> relate much crueltie dayly executed upon the Proteſtant partie by thoſe Antichriſtian Rebe's, or rather Helliſh Pagans; it is pittiſull to relate, and very grievous to con<g ref="char:EOLhyphen"/>ſider the immane dealings of thoſe bloudie men: let us all ſeeke God for them, and ſend them what helpe we are able, and God will in due time deliver them and us.</p>
+            <p>I ſhall now endeavour to give you intelligence of the paſſages in the Weſt. Laſt weeke I told you our Noble Generall, Sir <hi>Thomas Fairfax,</hi> was at <hi>Wells,</hi> and Major Generall <hi>Maſſey</hi> gone toward the enemie; which was true: but now the Generall is before <hi>Sherborne.</hi> He hath rayſed batteries, and made divers battering ſhot: his whole Armie is there with him, quartered at all the Townes adjacent; Major Generall <hi>Maſſey</hi> is marcht that way, towards him. The ene<g ref="char:EOLhyphen"/>mie, <hi>Goring</hi> and <hi>Greenvile,</hi> are betweene <hi>Exeter</hi> and <hi>Barstable;</hi> they have drawne out divers of their Ordnance from <hi>Exeter,</hi> to make them a Traine of Artillerie: his Majeſtie made our Noble Gene<g ref="char:EOLhyphen"/>rall Maſter of his Ordnance at <hi>Naesby</hi> field, and <hi>Goring</hi> delivered all that was in his cuſtodie unto his charge at <hi>Langport</hi> and <hi>Bridge<g ref="char:EOLhyphen"/>water,</hi> and is now bringing more to him out of <hi>Exeter;</hi> if God pleaſe, they may all ſhortly be delivered to our Generall to keepe, he knowes how to uſe them well. His Majeſtie is ſomewhere in <hi>Wales,</hi> but I cannot tell you where; I will at this time obey his Pro<g ref="char:EOLhyphen"/>clamation (yet I never ſee it) and will not tell any man where he is. I know he is not where he ſhould be; if he were, it would be a dou<g ref="char:EOLhyphen"/>ble happineſſe, not more to his ſubjects then to himſelfe: God open his eyes, and ſhew him the way to find out his errors, &amp; miſ-leaders; they hate him, but his Majeſtie loves them: but his Majeſtie loves not them that loves him moſt; he takes counſaile with them that are the deſtroyers of counſaile.</p>
+            <p>It is by Letters certined from the Generals Armie, that hee in<g ref="char:EOLhyphen"/>tends to advance ſpeedily toward the enemie with his whole Body: the enemie drawes all out of <hi>Cornwall,</hi> and their Garriſons, to make up a Body: it ſeemes, they meane to have another field for their part; let them goe on, and let God fight his owne Battailes, and
+<pb n="743" facs="tcp:115155:4"/>
+               <!-- PDF PAGE 30 -->judge betweene us and them. The inhabitants of <hi>Cornwall</hi> (though they are really <hi>Gorings</hi> friends, and that partie to aſſiſt them) will not ſuffer <hi>Goring</hi> to come with his Armie into that Countrey: and to that end they ſupplicate, leſt our Generall following, their Coun<g ref="char:EOLhyphen"/>trey ſhould be deſtroyed by both Armies; they begin to faint: if God give their Armie now, with <hi>Greenvile</hi> and <hi>Goring,</hi> into the Ge<g ref="char:EOLhyphen"/>nerals hand, all <hi>Cornwall</hi> will crie for mercie.</p>
+            <p>Major Generall <hi>Maſſey</hi> is going toward <hi>Bristol</hi> (as is certified) with about 2500 Horſe and Dragoones, and two or three Regiments of foot, to block up the enemie at diſtance; the Plague is ſtill very hot in the Towne.</p>
+            <p>
+               <hi>Farnley</hi> Caſtle, the Houſe of Sir <hi>Hungerford,</hi> in the Countie of <hi>Wilts,</hi> hath yeelded voluntarily to Sir <hi>Thomas Fainfax,</hi> and both Governour and ſouldiers ſubmit to the obedience of the Parlia<g ref="char:EOLhyphen"/>ment.</p>
+            <p>The Club men are little ſpoken of in any Countie, it ſeemes they are in a good way of ſubmiſſion; and it is not the leaſt of the reſt of Gods mercies, that hath diſpoſed ſo of things, that the enemie is diſappointed in that plot and hope. The Club-men of <hi>Hampſhire</hi> generally have declared themſelves, to caſt themſelves upon the Par<g ref="char:EOLhyphen"/>liament for all matters of right, and to ſubmit to ſuch government of the Church, as by the Aſſembly ſhall be propounded to the Par<g ref="char:EOLhyphen"/>liament, &amp;c.</p>
+            <p>There was a partie from <hi>Baſing</hi> Houſe, that went to M. <hi>Wallops</hi> Parke, called <hi>Farreley</hi> Parke, and were there killing and ſpoyling the Deere; and the Countrey came in upon them, and beat them, tooke ſome of them, and divers of their Armes, the reſt fled away. At a place called <hi>Tadley,</hi> about five miles from <hi>Baſing,</hi> they in<g ref="char:EOLhyphen"/>tended to keepe a Wake, and there came divers to ſell Fruit, and Pedlars Ware, and it was to be kept the laſt Sabbath day; but on the Saturday night a partie from <hi>Reading</hi> went thither, and tooke from them all their proviſions, Pedlars packs, and other Knacks, which ſpoyled all their ſport.</p>
+            <p>There hath beene debate in the Houſe about ſending Propoſitions to the King, if yet his Majeſtie will be pleaſed to accept thereof; and it was voted they would ſend Propoſitions by Bill, but without any Treatie. The world may ſee the Parliaments deſire of peace, and
+<pb n="744" facs="tcp:115155:5"/>
+               <!-- PDF PAGE 31 -->their tender care of his Majeſties honour and preſervation; pro<g ref="char:EOLhyphen"/>vided it may ſtand with the ſafetie of the Kingdome.</p>
+            <p>There was publiſhed a <hi>Murcurous Britanicus</hi> on Monday laſt, diſ<g ref="char:EOLhyphen"/>honourable to the King; which the Parliament taking into conſide<g ref="char:EOLhyphen"/>ration, have impriſoned both the Author and Printer: it is not the Author that uſed to write the firſt <hi>Britanicus. Aulicus</hi> of <hi>Oxford</hi> hath continually abuſed the Parliament in the baſeſt language that a baſe heart could conceive, and his Majeſtie hath never given the leaſt check to him for it; but the Parliament would not ſo requite his Majeſtie.</p>
+            <p>Colonel <hi>Ruſſel</hi> is appointed to be Governour of the Iſle of <hi>Ely.</hi>
+            </p>
+            <p>The Club-men in <hi>Dorſetſhire</hi> being tumultuouſly ga<g ref="char:EOLhyphen"/>thered together, and ſent to by the Generall to depart to their Dwellings, would not, but grew more nume<g ref="char:EOLhyphen"/>rous: The Generall ſent Lieutenant Generall <hi>Cromwell</hi> with two Regiments of Horſe, and two Regimenrs of Foot, and ſent them home with bleeding pates; a juſt reward for their boldneſſe.</p>
+            <p>Reports tell us of <hi>Ruperts</hi> comming to <hi>Banbury,</hi> and the Kings preparation toward the North; it were good to ſeare the worſt.</p>
+            <p>There is a Tract intituled <hi>Englands Preſſures,</hi> or, <hi>The Peoples Complaint,</hi> extant, which is uſefull to give ſatis<g ref="char:EOLhyphen"/>faction to all murmuring Complaints, and worth the Readers labour and charge, to read and buy.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed for <hi>L. C.</hi> according to Order.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
